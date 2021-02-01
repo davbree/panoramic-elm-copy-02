@@ -22,6 +22,10 @@ sections:
       Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
   - type: team_section
     title: Our Team
     team:
@@ -39,9 +43,5 @@ sections:
         style: secondary
     has_background: true
     background_color: blue
-  - title: lorem-ipsum
-    show_recent: false
-    recent_count: 0
-    type: blog_feed_section
 template: advanced
 ---
