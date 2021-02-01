@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: lorem-ipsumsss
         url: lorem-ipsum
         style: link
         new_window: false
