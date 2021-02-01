@@ -10,9 +10,6 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-      - label: Learn More
-        url: /features
-        style: primary
       - label: lorem-ipsumsss
         url: lorem-ipsum
         style: link
