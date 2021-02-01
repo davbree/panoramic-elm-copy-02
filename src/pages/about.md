@@ -1,13 +1,6 @@
 ---
 title: Who We Are
 sections:
-  - title: lorem-ipsum
-    show_recent: false
-    recent_count: 0
-    type: blog_feed_section
-  - type: hero_section
-    title: Who We Are
-    align: center
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
@@ -22,6 +15,13 @@ sections:
       Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
+  - title: lorem-ipsum
+    show_recent: false
+    recent_count: 0
+    type: blog_feed_section
+  - type: hero_section
+    title: Who We Are
+    align: center
   - title: lorem-ipsum
     show_recent: false
     recent_count: 0
