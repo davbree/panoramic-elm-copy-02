@@ -19,9 +19,6 @@ sections:
     show_recent: false
     recent_count: 0
     type: blog_feed_section
-  - type: hero_section
-    title: Who We Are
-    align: center
   - title: lorem-ipsum
     show_recent: false
     recent_count: 0
