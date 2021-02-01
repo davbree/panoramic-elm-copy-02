@@ -7,12 +7,12 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
+      - label: Learn More
+        url: /features
+        style: primary
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
